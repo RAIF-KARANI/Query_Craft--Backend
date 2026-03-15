@@ -39,7 +39,7 @@ The system follows a scalable MVC-like REST API architecture written in JavaScri
 ## Project Structure
 
 ```text
-querycraft-backend/
+Query_Craft--Backend/
 ├── Dockerfile                  # Containerization configuration
 ├── index.js                    # Application entry point & server setup
 ├── package.json                # Dependencies and NPM scripts
@@ -71,7 +71,7 @@ Run the following commands to clone the repository, navigate to the directory, a
 https://github.com/RAIF-KARANI/Query_Craft--Backend.git
 
 # Navigate into the project directory
-cd querycraft-backend
+cd Query_Craft--Backend
 
 # Install NPM dependencies
 npm install
@@ -132,10 +132,10 @@ You can also build and run the application using the provided Dockerfile:
 
 ```bash
 # Build the Docker image
-docker build -t querycraft-backend .
+docker build -t Query_Craft--Backend .
 
 # Run the container (maps port 5001 and passes the .env file)
-docker run -p 5001:5001 --env-file .env querycraft-backend
+docker run -p 5001:5001 --env-file .env Query_Craft--Backend
 ```
 
 ## API Documentation
