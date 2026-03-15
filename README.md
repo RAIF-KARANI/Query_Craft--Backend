@@ -68,7 +68,7 @@ Run the following commands to clone the repository, navigate to the directory, a
 
 ```bash
 # Clone the repository
-git clone https://github.com/Rifaque/querycraft-backend.git
+https://github.com/RAIF-KARANI/Query_Craft--Backend.git
 
 # Navigate into the project directory
 cd querycraft-backend
