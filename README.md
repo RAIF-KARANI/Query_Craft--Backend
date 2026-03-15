@@ -6,7 +6,7 @@ QueryCraft Backend is a Node.js and Express-based REST API that powers the Query
 
 The backend handles authentication, conversation memory, dynamic database connections, and intelligent query routing to multiple Large Language Model (LLM) providers, including Google GenAI (Gemini), OpenRouter, and local local models.
 
-> **Note**: This repository contains the backend code. The frontend application can be found here: [QueryCraft Frontend](../querycraft-frontend).
+> **Note**: This repository contains the backend code. The frontend application can be found here: [QueryCraft Frontend](https://github.com/RAIF-KARANI/Query_Craft--Frontend).
 
 ## Key Features
 
